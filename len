@@ -1,0 +1,3 @@
+mystring = "abc"
+length = len(mystring)
+print length
